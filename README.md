@@ -4,6 +4,8 @@ This repository contains the CI/CD pipeline configuration using Drone CI for aut
 
 ## Pipeline Overview
 
+To view the pipeline digram: https://app.eraser.io/workspace/6i7kdgf4uBB3SFmE7J4e
+
 The project uses two main pipelines:
 
 ### 1. SonarQube Code Analysis
@@ -47,7 +49,3 @@ The following secrets need to be configured in Drone CI:
 ## Contributing
 
 When contributing to this project, ensure your code will pass the SonarQube quality gates before merging to master.
-
-## License
-
-[Add
